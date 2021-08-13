@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gemini56
-- 👀 I’m interested in Data Analys
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning SQL and R
 
 
